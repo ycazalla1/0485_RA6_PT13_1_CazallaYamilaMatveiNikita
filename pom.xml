@@ -11,4 +11,11 @@
         <maven.compiler.target>23</maven.compiler.target>
         <exec.mainClass>com.mycompany._ra6_pt13_1_cazallayamilamatveinikita.App</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.10.1</version>
+        </dependency>
+    </dependencies>
 </project>
